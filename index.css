@@ -11,7 +11,7 @@ h1 {
     text-align: center;
 }
 h2 {
-    color: #483D8B;
+    color: #000000;
 }
 p {
     color:  #5F9EA0;
@@ -46,6 +46,6 @@ p {
 }
 
 .itens {
-	color: blue;
+	color: rgb(127, 139, 167);
 	text-decoration: underline;
 }
