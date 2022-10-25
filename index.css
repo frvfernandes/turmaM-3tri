@@ -4,10 +4,12 @@ body {
 
 nav li {
     display: inline;
+    align-items: center;
     }
 nav a {
     text-transform: uppercase;
-    color:antiquewhite
+    color:antiquewhite;
+    align-items: center;
     
 }
 .texto-principal {
@@ -51,9 +53,4 @@ h2 {
 p {
     color:  #5F9EA0;
 
-}
-
-.itens {
-	color: rgb(127, 139, 167);
-	text-decoration: underline;
 }
