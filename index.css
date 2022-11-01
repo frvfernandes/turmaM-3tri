@@ -1,5 +1,5 @@
 body {
-    border: #D3D3D3;
+    border: 5px #D3D3D3 solid;
     margin-top: 10px;
     margin-left: 10px;
     margin-right: 10px;
@@ -58,6 +58,13 @@ p {
     float: left;
     position: absolute;
 }
+.menu{
+    border: 5px yellow dashed;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+}
 
 .itens {
 	color:  #5F9EA0;
@@ -76,5 +83,4 @@ h2 {
 }
 p {
     color:  #5F9EA0;
-
 }
