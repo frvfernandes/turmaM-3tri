@@ -85,3 +85,8 @@ h2 {
 p {
     color:  #5F9EA0;
 }
+.pong{
+    width: 10%;
+    height: 10%;
+    padding-left: 10px;
+}
