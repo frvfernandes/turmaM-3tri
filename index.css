@@ -90,3 +90,22 @@ p {
     height: 10%;
     padding-left: 10px;
 }
+
+footer{
+    background-image: url(coding-image.png);
+    padding: 40px 0;
+    text-align: center;
+   
+}
+.imgrodape{
+    display: inline-block;
+    position: absolute;
+    padding-right: 20px;
+    height: 5%;
+    width: 5%;
+}
+
+.copyright{
+    display: inline-block;
+    margin: 50px;
+}
